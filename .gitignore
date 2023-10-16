@@ -1,0 +1,46 @@
+# Frontend
+
+# dependencies
+frontend/node_modules
+frontend/.pnp
+frontend/.pnp.js
+frontend/package-lock.json
+
+# testing
+frontend/coverage
+
+# production
+frontend/build
+
+# misc
+frontend/.DS_Store
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+
+# Backend
+
+backend/*.DS_Store
+backend/*.sw?
+backend/.#*
+backend/*#
+backend/*~
+backend/.classpath
+backend/.project
+backend/.settings
+backend/bin
+backend/build
+backend/target
+backend/dependency-reduced-pom.xml
+backend/*.sublime-*
+backend/scratch
+backend/.gradle
+backend/README.html
+backend/.idea
+backend/*.iml
